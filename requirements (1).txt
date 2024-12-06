@@ -1,0 +1,9 @@
+langchain-groq
+shutup
+sentence-transformers
+faiss-cpu
+pandasai
+langchain-community
+pypdf
+python-docx
+streamlit
